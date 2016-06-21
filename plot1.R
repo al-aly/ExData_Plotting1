@@ -1,5 +1,5 @@
 getwd()
-setwd("/home/al-maya/Desktop/cousera/Exploratory Data Analysis/")
+setwd("/home/Desktop/cousera/Exploratory Data Analysis/")
 #create file directory
 if(!file.exists("./data")){dir.create("./data")}
 # download dataset and put in working directory
